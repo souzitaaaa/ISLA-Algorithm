@@ -1,0 +1,18 @@
+Exercises:
+
+1. Read 3 int numbers and find which is the bigger.
+2. Read 1 number. If the number is between 0 and 10, write "Blue",
+	if is between 10 and 20, write "Red", if is between 20 and 30,
+	write "Green" and if it is any other number write "Invalid Number".
+3. Read 2 numbers, and swap the value of them.
+4. Read 1 int number different of 0 and say if it is negative or positive.
+5. Read 1 int number bigger than 0 and decrement one number until it reaches,
+	0, printing each number until the end of the program.
+6. Read 1 number until find one between 10 and 20.
+7. Read a predetermined amount of numbers, and print their sum and average.
+8. Calculate the average of the grades of 5 subjects and print if you passed
+	or failed.
+9. Fill a array with 20 numbers, read a number and verify if the array contains
+	that number. If it founds, you shall print "The number <x> was found
+	in position <y>" but if it wasn't found print "The number <x> wasn't found".
+10. Read 10 numbers to a array and arrange them.
